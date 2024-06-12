@@ -31,3 +31,70 @@ body {
     text-wrap: balance;
   }
 }
+
+
+/* Custom CSS for text glow and color transition */
+.glowing-text {
+  position: relative;
+  color: #ffffff; /* Original text color */
+  transition: color 0.5s;
+}
+
+.glowing-text::before {
+  content: 'NFTVerse';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(90deg, #ff00cc, #3333ff);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  opacity: 1;
+  transition: text-shadow 0.5s;
+}
+
+.glowing-text:hover {
+  text-shadow: 0 0 10px rgba(255, 255, 255, 0.1),
+               0 0 20px rgba(255, 255, 255, 0.1),
+               0 0 30px rgba(255, 255, 255, 0.1);
+}
+
+/* .glowing-text:hover::before {
+  opacity: 1;
+  transform: translateX(0%);
+} */
+
+/* Custom CSS for the animated background */
+.animated-background {
+  position: relative;
+  background: linear-gradient(270deg, #000000, #23001c,#000000,#00002c);
+  background-size: 1000% 1000%;
+  animation: gradientAnimation 10s ease infinite;
+  overflow: hidden;
+}
+
+@keyframes gradientAnimation {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+nav {
+  z-index: 10;
+}
+
+nav a {
+  transition: color 0.3s ease;
+}
+
+nav a:hover {
+  color: #fff;
+}
