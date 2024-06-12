@@ -1,4 +1,19 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+
+<img width="1469" alt="nftmarket" src="https://github.com/Adi9876/TokenVerse/assets/62845979/6b10fd15-1516-4323-8435-df7ce6f72be3">
+
+![Create-NFT](https://github.com/Adi9876/TokenVerse/assets/62845979/fb84ab9a-0d2e-4d3e-a2ea-8af7702bb337)
+
+![Buy](https://github.com/Adi9876/TokenVerse/assets/62845979/48c06109-7841-484e-8bbe-1c3237e333f7)
+
+![Minimal Modern You Are Enough Quote Desktop Wallpaper](https://github.com/Adi9876/TokenVerse/assets/62845979/d27030de-f6bb-4615-9765-093449e9bbb1)
+
+
+THERE ARE MORE SCREENSHOTS TO BE INCLUDED HERE LIKE RESELLING TOKEN SCREEN THE LOADING PART
+A VIDEO SHOWING THE GLOWING BACKGROUND AND TOKENVERSE TEXT AND MANY MORE IN FUTURE AHEAD
+
+
+
 
 ## Getting Started
 
