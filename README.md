@@ -1,4 +1,5 @@
-
+CHECK OUT THE DEPLOYED VERSION HERE::::
+https://nft-marketplace-etsyblxpk-adis-projects-8ba446b5.vercel.app/
 
 <img width="1469" alt="nftmarket" src="https://github.com/Adi9876/TokenVerse/assets/62845979/6b10fd15-1516-4323-8435-df7ce6f72be3">
 
